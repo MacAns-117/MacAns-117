@@ -6,6 +6,14 @@
 
 <hr>
 
+<h3>📚 What I'm Learning This Week</h3>
+<ul>
+  <li>📖 Advancing SQL — window functions, CTEs, and query optimization</li>
+  <li>📖 Power BI — DAX measures and interactive dashboard design</li>
+  <li>📖 Python — building end-to-end data pipelines with pandas</li>
+</ul>
+
+<hr>
 <h3>🎯 Currently</h3>
 <ul>
   <li>🔭 Building data analytics and ML projects in Python, SQL, and Power BI</li>
