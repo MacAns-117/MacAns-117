@@ -140,7 +140,7 @@
     </tr>
     <tr>
       <td>BE, Information Technology</td>
-      <td>Muffakham Jah College of Engineering and Technology</td>
+      <td>Osmania University</td>
       <td>Aug 2015 – May 2019</td>
     </tr>
   </tbody>
