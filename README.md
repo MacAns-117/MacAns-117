@@ -34,20 +34,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>AWS Certified Machine Learning – Specialty</strong></td>
-      <td>AWS</td>
+      <td><strong>Data Science &amp; Machine Learning Internship Program</strong></td>
+      <td>Gilbert Research Center</td>
     </tr>
     <tr>
-      <td>AWS Certified Cloud Practitioner</td>
-      <td>AWS</td>
+      <td><strong>Brainnest Data Analysis Industry Training</strong></td>
+      <td>Brainnest</td>
     </tr>
     <tr>
-      <td>IBM Data Science Professional Certificate</td>
-      <td>Coursera</td>
-    </tr>
-    <tr>
-      <td>TensorFlow Developer Certificate</td>
-      <td>TensorFlow</td>
+      <td>Playstore Apps Analysis &amp; Visualization — Online Live Data Analyst Project (SQL + Power BI)</td>
+      <td>HiCounselor</td>
     </tr>
     <tr>
       <td>Accenture Data Analytics &amp; Visualization Virtual Experience</td>
@@ -58,8 +54,20 @@
       <td>Forage</td>
     </tr>
     <tr>
-      <td>Online Live Data Analyst Project — Playstore Apps Analysis &amp; Visualization (SQL + Power BI)</td>
-      <td>HiCounselor</td>
+      <td>TensorFlow Developer Certificate</td>
+      <td>TensorFlow</td>
+    </tr>
+    <tr>
+      <td>IBM Data Science</td>
+      <td>Coursera / IBM</td>
+    </tr>
+    <tr>
+      <td><strong>AWS Certified Machine Learning – Specialty</strong></td>
+      <td>AWS</td>
+    </tr>
+    <tr>
+      <td>AWS Certified Cloud Practitioner</td>
+      <td>AWS</td>
     </tr>
   </tbody>
 </table>
@@ -82,11 +90,11 @@
     <tr>
       <td><strong>Software Engineer</strong></td>
       <td>Aptsol Global Tech Pvt Ltd</td>
-      <td>Feb 2024 – Oct 2024</td>
+      <td>Apr 2024 – Oct 2024</td>
     </tr>
     <tr>
       <td colspan="3" style="font-size: 0.9em; color: #6B7280; padding-left: 16px;">
-        Authored and maintained 10,000+ lines of code in Python, SQL, HTML5, and CSS/Bootstrap. Achieved 99% on-time project delivery rate by enhancing the development pipeline and implementing agile methodologies. Enhanced system performance by 30% by optimizing Python codebases and SQL queries.
+        Authored and maintained 10,000+ lines of production code across Python, SQL, HTML5, and CSS/Bootstrap, emphasising modularity and reusability across multiple client projects. Achieved a 99% on-time project delivery rate by enhancing the development pipeline and implementing agile methodologies across a 5-person engineering team. Improved system performance by 30% by profiling and optimising Python codebases and tuning SQL queries, resulting in smoother user experiences and reduced page-load times.
       </td>
     </tr>
     <tr>
@@ -95,19 +103,19 @@
       <td>Nov 2023</td>
     </tr>
     <tr>
+      <td colspan="3" style="font-size: 0.9em; color: #6B7280; padding-left: 16px;">
+        Completed a 4-week Data Engineering Traineeship at MedTourEasy, working under the supervision of a project mentor on real healthcare and chemical-component datasets. Delivered a project titled "Analysis of Chemical Components" — built data processing workflows, performed data cleaning, and ran SQL-based analytics to surface insights from structured records. Earned a Traineeship Completion Certificate, Letter of Recommendation, and Letter of Appreciation from the Training Head.
+      </td>
+    </tr>
+    <tr>
       <td>Data Analytics Trainee</td>
       <td>Trainity</td>
       <td>Jul 2023 – Sep 2023</td>
     </tr>
     <tr>
-      <td>Data Science &amp; Machine Learning Intern</td>
-      <td>Gilbert Research Center</td>
-      <td>May 2023 – Jul 2023</td>
-    </tr>
-    <tr>
-      <td>Data Analysis Industry Trainee</td>
-      <td>Brainnest</td>
-      <td>Jan 2023</td>
+      <td colspan="3" style="font-size: 0.9em; color: #6B7280; padding-left: 16px;">
+        Completed an intensive data analytics training program covering Python, SQL, Power BI, and exploratory data analysis across 5+ real-world datasets including Instagram user analytics and Playstore app data. Built end-to-end analytics projects: data cleaning in pandas, SQL querying in MySQL Workbench, and interactive dashboards in Power BI. Delivered a final capstone on Playstore Apps Analysis &amp; Visualization, identifying top app categories by installs and sentiment analysis of user reviews.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -238,7 +246,7 @@
 
 <h3>📫 Connect with me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/maqsood-ansari-6b17763a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/maqsood-ahmed-ansari/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maqsood.a.ansari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/MacAns-117"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://macans-117.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"></a>
