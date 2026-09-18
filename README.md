@@ -8,17 +8,18 @@
 
 <h3>📚 What I'm Learning This Week</h3>
 <ul>
-  <li>📖 Advancing SQL — window functions, CTEs, and query optimization</li>
-  <li>📖 Power BI — DAX measures and interactive dashboard design</li>
-  <li>📖 Python — building end-to-end data pipelines with pandas</li>
+  <li>📖 LangGraph — building stateful, multi-agent workflows for LLM applications</li>
+  <li>📖 DuckDB — embedded SQL analytics for fast, in-memory data processing</li>
+  <li>📖 LLMOps — deployment, monitoring, and evaluation of RAG and agent systems</li>
 </ul>
 
 <hr>
 <h3>🎯 Currently</h3>
 <ul>
-  <li>🔭 Building data analytics and ML projects in Python, SQL, and Power BI</li>
-  <li>🌱 Currently sharpening skills in advanced SQL, data visualization, and predictive modeling</li>
-  <li>💼 Actively interviewing for Data Analyst / Junior Data Scientist / Python Developer roles</li>
+  <li>🔭 Building production-style GenAI applications (RAG systems + LangGraph multi-agent assistants)</li>
+  <li>🌱 Sharpening skills in LangChain orchestration, vector databases, and prompt engineering</li>
+  <li>💼 Actively interviewing for AI Engineer / GenAI Engineer / LLM Application Developer roles</li>
+  <li>🚀 Two GenAI projects shipped (live demo available); more in progress</li>
 </ul>
 
 <hr>
@@ -207,7 +208,7 @@
       <td>LangGraph, DuckDB, Plotly, Streamlit</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/hotel-churn-prediction"><strong>Hotel Booking Cancellation Prediction</strong></a></td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Science(ML)_projects/Hotel_churn_rate"><strong>Hotel Booking Cancellation Prediction</strong></a></td>
       <td>Binary classification on 87K hotel bookings with temporal train/test split. Random forest ROC-AUC 0.815 vs logistic baseline 0.801. 10 EDA plots, full writeup</td>
       <td>Python, scikit-learn, pandas, seaborn</td>
     </tr>
@@ -217,12 +218,12 @@
       <td>Python, scikit-learn, PyCaret, Streamlit</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Django_Projects/todo"><strong>Task Manager Application (Django)</strong></a></td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Django_Projects/todo-task-manager/todo"><strong>Task Manager Application (Django)</strong></a></td>
       <td>Django task manager with admin login, CRUD operations, and Bootstrap modals for seamless interactive task management</td>
       <td>Django, Python, Bootstrap</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Django_Projects/smtp1"><strong>Request Management System (Django)</strong></a></td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Django_Projects/request-management-system/smtp1"><strong>Request Management System (Django)</strong></a></td>
       <td>Django service request management app with MySQL — create, assign, and track requests, with real-time SMTP email notifications</td>
       <td>Django, MySQL, SMTP, Bootstrap</td>
     </tr>
