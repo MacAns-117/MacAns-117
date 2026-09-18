@@ -184,6 +184,26 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/GenAi_Projects/Rag_Document_QA"><strong>RAG Document Q&amp;A with Citations</strong></a> · <a href="https://projects-wktkeuxu6u3nqmz9vdyith.streamlit.app/">Live demo</a></td>
+      <td>Multi-doc RAG with hybrid retrieval (BM25 + vector cosine), OCR fallback for scanned PDFs, 77.3% Hit@8 on 24-question gold set, FastAPI wrapper</td>
+      <td>LangChain, Chroma, Groq, Streamlit</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/GenAi_Projects/Hotel_Insights_Assistant"><strong>CSV Insights Assistant</strong></a></td>
+      <td>LangGraph multi-agent system — data analyst + visualization + report writer agents on any CSV. DuckDB SQL, Plotly charts, 42 tests, 19/19 pandas eval</td>
+      <td>LangGraph, DuckDB, Plotly, Streamlit</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MacAns-117/hotel-churn-prediction"><strong>Hotel Booking Cancellation Prediction</strong></a></td>
+      <td>Binary classification on 87K hotel bookings with temporal train/test split. Random forest ROC-AUC 0.815 vs logistic baseline 0.801. 10 EDA plots, full writeup</td>
+      <td>Python, scikit-learn, pandas, seaborn</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Science(ML)_projects/Predicting_HP_Using_ADV_Ensamble_Techniques"><strong>House Price Prediction (Ensembles)</strong></a></td>
+      <td>Regression on 29K Indian residential listings using stacking, blending, and bagging. R² 0.71, MAE ₹12.1 lakh. Streamlit app for live prediction</td>
+      <td>Python, scikit-learn, PyCaret, Streamlit</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/MacAns-117/Projects/tree/main/Django_Projects/todo"><strong>Task Manager Application (Django)</strong></a></td>
       <td>Django task manager with admin login, CRUD operations, and Bootstrap modals for seamless interactive task management</td>
       <td>Django, Python, Bootstrap</td>
@@ -194,32 +214,12 @@
       <td>Django, MySQL, SMTP, Bootstrap</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Instagram_User_Analytics"><strong>Instagram User Analytics</strong></a></td>
-      <td>Analyzed Instagram data for marketing and investor metrics using RDBMS SQL, MySQL Workbench, and data munging tasks</td>
-      <td>SQL, MySQL</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Playstore%20Apps%20Analysis%20%26%20Visualization"><strong>Playstore Apps Analysis &amp; Visualization</strong></a></td>
-      <td>Collected, cleaned, processed, and transformed Play Store data using Python and SQL to build data flow pipelines</td>
-      <td>Python, SQL, Power BI</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Accenture_Data_analytics_and_Visualization"><strong>Accenture Data Analytics Virtual Experience</strong></a></td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Analytics_Projects/Accenture_Data_analytics_and_Visualization"><strong>Accenture Data Analytics Virtual Experience</strong></a></td>
       <td>End-to-end client data project — cleaning, processing, and insight generation as part of Accenture's virtual internship</td>
       <td>Python, Power BI</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Hotel_churn_rate"><strong>Hotel Churn Rate Prediction</strong></a></td>
-      <td>Forecasts hotel booking cancellations using NumPy, Pandas, scikit-learn, Seaborn, and Missingno for missing-data analysis</td>
-      <td>Python, scikit-learn, Pandas</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Predicting_HP_Using_ADV_Ensamble_Techniques"><strong>House Price Prediction (Advanced Ensembles)</strong></a></td>
-      <td>Predicts house prices in India using advanced ensemble ML techniques; demonstrates end-to-end data analysis and modeling</td>
-      <td>Python, scikit-learn, Ensemble ML</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Stella_Bot"><strong>Stella Bot</strong></a></td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Science(ML)_projects/Stella_Bot"><strong>Stella Bot</strong></a></td>
       <td>Rule-based virtual assistant capable of voice interaction</td>
       <td>Python, Speech Recognition</td>
     </tr>
