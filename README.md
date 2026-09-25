@@ -203,8 +203,7 @@
       <td>LangChain, Chroma, Groq, Streamlit</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/GenAi_Projects/Hotel_Insights_Assistant"><strong>CSV Insights Assistant</strong></a> . <a href="https://projects-projects-wktkeuxu6u3nqmz9vdyith
-.streamlit.app/">Live demo</a></td></td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/GenAi_Projects/Hotel_Insights_Assistant"><strong>CSV Insights Assistant</strong></a> . <a href="https://portfolio-wtvyr5raavdyaknbh4jml6.streamlit.app/">Live demo</a></td></td>
       <td>LangGraph multi-agent system — data analyst + visualization + report writer agents on any CSV. DuckDB SQL, Plotly charts, 42 tests, 19/19 pandas eval</td>
       <td>LangGraph, DuckDB, Plotly, Streamlit</td>
     </tr>
