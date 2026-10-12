@@ -95,8 +95,8 @@
     </tr>
     <tr>
       <td colspan="3" style="font-size: 0.9em; color: #6B7280; padding-left: 16px;">
-        Authored and maintained 10,000+ lines of production code across Python, SQL, HTML5, and CSS/Bootstrap, emphasising modularity and reusability across multiple client projects. Achieved a 99% on-time project delivery rate by enhancing the development pipeline and implementing agile methodologies across a 5-person engineering team. Improved system performance by 30% by profiling and optimising Python codebases and tuning SQL queries, resulting in smoother user experiences and reduced page-load times.
-      </td>
+  Built three Django web apps (task manager, request approvals with SMTP email, hospital records) in a 5-person team. Wrote 10,000+ lines of code across the stint (including the training phase) and delivered 99% of tasks on time. Rebuilt the UI from hand-written CSS to Bootstrap 5.
+</td>
     </tr>
     <tr>
       <td>Data Engineer Trainee</td>
