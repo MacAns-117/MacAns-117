@@ -1,6 +1,6 @@
 <h1>Hi, I'm Maqsood Ahmed Ansari 👋</h1>
 
-<p><strong>Software Engineer</strong> turned <strong>early-career Data Analyst</strong> with hands-on experience in Python, Django, SQL, and Power BI. MTech in CSE from Osmania University, with virtual internships at Accenture and PwC, and certifications earned from AWS, IBM, and TensorFlow. Based in Hyderabad, India — open to remote and relocation.</p>
+<p><strong>Software Engineer</strong> turned <strong>early-career Data Analyst</strong> with hands-on experience in Python, Django, SQL, and Power BI. MTech in CSE from Osmania University, with Forage virtual experience programmes with Accenture and PwC, and certifications earned from AWS, IBM, and TensorFlow. Based in Hyderabad, India — open to remote and relocation.</p>
 
 <p>🌐 Live portfolio: <a href="https://macans-117.github.io/Portfolio/">macans-117.github.io/Portfolio</a></p>
 
@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td colspan="3" style="font-size: 0.9em; color: #6B7280; padding-left: 16px;">
-        Completed an intensive data analytics training program covering Python, SQL, Power BI, and exploratory data analysis across 5+ real-world datasets including Instagram user analytics and Playstore app data. Built end-to-end analytics projects: data cleaning in pandas, SQL querying in MySQL Workbench, and interactive dashboards in Power BI. Delivered a final capstone on Playstore Apps Analysis &amp; Visualization, identifying top app categories by installs and sentiment analysis of user reviews.
+        Completed an intensive data analytics training program covering Python, SQL, Power BI, and exploratory data analysis across 5+ real-world datasets. Built end-to-end analytics projects: data cleaning in pandas, SQL querying in MySQL Workbench, and interactive dashboards in Power BI. Delivered a final capstone on IMDB Movie Analysis &amp; Visualization, genre, runtime and director move the score more than budget; budget vs gross r = 0.627 after outlier removal.
       </td>
     </tr>
   </tbody>
@@ -203,7 +203,7 @@
       <td>LangChain, Chroma, Groq, Streamlit</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/GenAi_Projects/Hotel_Insights_Assistant"><strong>CSV Insights Assistant</strong></a> . <a href="https://portfolio-wtvyr5raavdyaknbh4jml6.streamlit.app/">Live demo</a></td></td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/GenAi_Projects/CSV_Insights_Assistant"><strong>CSV Insights Assistant</strong></a> . <a href="https://portfolio-wtvyr5raavdyaknbh4jml6.streamlit.app/">Live demo</a></td></td>
       <td>LangGraph multi-agent system — data analyst + visualization + report writer agents on any CSV. DuckDB SQL, Plotly charts, 42 tests, 19/19 pandas eval</td>
       <td>LangGraph, DuckDB, Plotly, Streamlit</td>
     </tr>
@@ -213,8 +213,8 @@
       <td>Python, scikit-learn, pandas, seaborn</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Science(ML)_projects/Predicting_HP_Using_ADV_Ensamble_Techniques"><strong>House Price Prediction (Ensembles)</strong></a></td>
-      <td>Regression on 29K Indian residential listings using stacking, blending, and bagging. R² 0.71, MAE ₹12.1 lakh. Streamlit app for live prediction</td>
+      <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Science(ML)_projects/Predicting_HP_Using_ADV_Ensamble_Techniques"><strong>House Price Prediction (Ensemble/Gradient Boosting)</strong></a></td>
+      <td>Gradient boosting on 28,711 Indian listings (log target): off by ₹12.1 lakh on a typical home (median absolute error), ₹28.5 lakh on average, R² 0.71. Streamlit form. MTech final-year project, rewritten 2026.</td>
       <td>Python, scikit-learn, PyCaret, Streamlit</td>
     </tr>
     <tr>
@@ -229,7 +229,9 @@
     </tr>
     <tr>
       <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Analytics_Projects/Accenture_Data_analytics_and_Visualization"><strong>Accenture Data Analytics Virtual Experience</strong></a></td>
-      <td>End-to-end client data project — cleaning, processing, and insight generation as part of Accenture's virtual internship</td>
+      <td>Forage / Accenture virtual experience (practice project): ranked 16 content categories by summed reaction score; pandas and SQLite agree on the top 5 (Animals 68,624).
+<br>
+Tech: pandas, SQLite</td>
       <td>Python, Power BI</td>
     </tr>
     <tr>
