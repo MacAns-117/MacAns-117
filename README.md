@@ -223,8 +223,8 @@
     </tr>
     <tr>
       <td><a href="https://github.com/MacAns-117/Projects/tree/main/Django_Projects/request-management-system/smtp1"><strong>Request Management System (Django)</strong></a></td>
-      <td>Django service request management app with MySQL — create, assign, and track requests, with real-time SMTP email notifications</td>
-      <td>Django, MySQL, SMTP, Bootstrap</td>
+     <td>Staff approve or reject requests; status stored (pending → approved / rejected); email via SMTP (console by default); 5 tests.</td>
+<td>Django, SQLite, SMTP, Bootstrap 5</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MacAns-117/Projects/tree/main/Data_Analytics_Projects/Accenture_Data_analytics_and_Visualization"><strong>Accenture Data Analytics Virtual Experience</strong></a></td>
